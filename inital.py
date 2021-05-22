@@ -15,7 +15,7 @@ class inputs:
 
     def getProject(self):
         questions = [
-            inquirer.List('project', message="select project to run",
+            inquirer.List('project', message="select project to run.",
                           choices=[item['name'] for item in self.projects])
         ]
         answer = inquirer.prompt(questions)['project']
