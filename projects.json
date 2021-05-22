@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "name": "vue_admin",
+            "path": "G:/vue projects/vue-admin",
+            "framework": "vue"
+        },
+        {
+            "name": "aloorshop_cloud2",
+            "path": "G:/vue projects/aloorshop-cloud2",
+            "framework": "firebase-functions"
+        },
+        {
+            "name": "fazart_nuxt",
+            "path": "G:/nuxt projects/fazart",
+            "framework": "nuxt"
+        }
+    ]
+}
